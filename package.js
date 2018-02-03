@@ -1,8 +1,8 @@
 Package.describe({
-    name: 'jayuda:flx-qrcode',
+    name: 'ca333:qrcode',
     version: '0.0.1',
-    summary: "QRCode code in meteor.",
-    git: 'https://github.com/Jayuda/flx-qrcode',
+    summary: "QRCode in meteor.",
+    git: 'https://github.com/ca333/qrcode',
     documentation: 'README.md'
 });
 
